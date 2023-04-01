@@ -1,0 +1,8 @@
+siteId,deviceUnitId,asset_name,assetDuration,adsMode,objectName,objectCount,weatherPrefix,ageRange,gender,adPlayedTimestamp,remarks
+111,IVISTEST001,BSR-PMR3-02.mp4,9,BSR,person,0,PMR3-,10,Male,01-04-2023 09:58:34,Ads
+111,IVISTEST001,BSR-PMR3-03.mp4,11,BSR,person,0,PMR3-,10,Male,01-04-2023 09:58:53,Ads
+111,IVISTEST001,BSR-PMR3-02.mp4,9,BSR,person,0,PMR3-,10,Male,01-04-2023 09:59:15,Ads
+111,IVISTEST001,BSR-PMR3-03.mp4,11,BSR,person,0,PMR3-,10,Male,01-04-2023 09:59:33,Ads
+111,IVISTEST001,BSR-PMR3-02.mp4,9,BSR,person,0,PMR3-,10,Male,01-04-2023 09:59:55,Ads
+111,IVISTEST001,BSR-PMR3-03.mp4,11,BSR,person,0,PMR3-,10,Male,01-04-2023 10:00:13,Ads
+111,IVISTEST001,noAds.mp4,5,BSR,person,0,AMR3-,10,Male,01-04-2023 10:00:35,Ads
